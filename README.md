@@ -1,36 +1,73 @@
-## 👋 Hey there, I'm a Java Backend Developer
+<h1 align="left">👋 Hey there, I'm a Java Backend Developer</h1>
 
-💻 I specialize in building robust backend systems using Java and Spring Boot, focusing on clean architecture and scalable APIs.
+###
 
-🚀 I enjoy turning complex problems into simple, efficient solutions through code.
+<br clear="both">
 
-🔭 Currently working on Spring Boot-based backend projects and improving my system design skills
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
-🌱 Actively learning Java Full Stack Development, Microservices architecture, and advanced backend engineering concepts
+###
 
-🧠 Exploring how AI can be integrated into real-world backend systems
+<p align="left">⚙️ I build reliable and scalable backend systems using Java & Spring Boot.<br><br>🚀 Focused on writing clean code, designing APIs, and solving real-world engineering problems.<br><br>🔭 Working on Spring Boot projects and improving system design skills<br><br>🌱 Learning Microservices, Distributed Systems, and Advanced Backend Architecture<br><br>🧠 Interested in backend performance, architecture, and AI-powered application.<br><br>📫 Reach me:  <br>Email: motilalgupta943071@gmail.com |  LinkedIn: https://www.linkedin.com/in/motilal-gupta-209342245</p>
 
-👯 Open to collaborating on backend-heavy projects, REST APIs, and Java-based applications
+###
 
-💬 Ask me about Java, Spring Boot, REST APIs, JDBC, SQL, DSA, and backend design
+<h2 align="left">🛠️ Core Stack</h2>
 
-📫 Contact:
+###
 
-* Email: motilalgupta943071@gmail.com
-* GitHub: https://github.com/motilalgupta
-* LinkedIn: www.linkedin.com/in/motilal-gupta-209342245 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
 
-### 🛠️ Core Stack
+###
 
-Java • Spring Boot • MySQL • REST APIs • Hibernate • Git • Maven
+<br clear="both">
 
-### 📌 Current Focus
+<img src="https://raw.githubusercontent.com/motilalgupta/motilalgupta/snake-output/snake.svg" alt="Snake animation" />
 
-* Building production-level Spring Boot projects
-* Strengthening system design fundamentals
-* Practicing DSA for coding interviews
-* Learning scalable backend architecture
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=motilalgupta.motilalgupta&"  />
+</div>
 
-
-
+###
