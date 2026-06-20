@@ -76,6 +76,12 @@
 
 </div>
 
+<div align="center">
+  
+![snake gif](https://github.com/motilalgupta/motilalgupta/blob/output/github-snake-dark.svg)
+
+</div>
+
 ###
 
 <div data-importer="profile-views" align="center">
@@ -83,3 +89,5 @@
 </div>
 
 ###
+
+
