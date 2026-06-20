@@ -71,7 +71,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=motilalgupta&theme=transparent&hide_border=true" />
 
-<br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=motilalgupta&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
