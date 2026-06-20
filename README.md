@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">👋 Hey there, I'm a Java Backend Developer</h1>
+<h1 data-importer="text" align="left">👋 Hey there, I'm a Java Backend Developer</h1>
 
 ###
 
@@ -8,9 +8,10 @@
 
 ###
 
-<p data-importer="text" align="left">⚙️ I build reliable and scalable backend systems using Java & Spring Boot.<br><br>🚀 Focused on writing clean code, designing APIs, and solving real-world engineering problems.<br><br>🔭 Working on Spring Boot projects and improving system design skills<br><br>🌱 Learning Microservices, Distributed Systems, and Advanced Backend Architecture<br><br>🧠 Interested in backend performance, architecture, and AI-powered application.<br><br>📫 Reach me:  <br>Email: motilalgupta943071@gmail.com |  LinkedIn: https://www.linkedin.com/in/motilal-gupta-209342245</p>
+<p data-importer="text" align="left">⚙️ I build reliable and scalable backend systems using Java & Spring Boot.<br><br>🚀 Focused on writing clean code, designing APIs, and solving real-world engineering problems.<br><br>🔭 Working on Spring Boot projects and improving system design skills<br><br>🌱 Learning Microservices, Distributed Systems, and Advanced Backend Architecture<br><br>🧠 Interested in backend performance, architecture, and AI-powered application.<br><br>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/motilal-gupta-209342245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:motilalgupta943071@gmail.com) 
 
 <h2 data-importer="text" align="left">🛠️ Core Stack</h2>
 
